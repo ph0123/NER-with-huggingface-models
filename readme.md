@@ -70,7 +70,7 @@ ANIMAL(ANIM)).
 
 ## Note2
 
-- You can read the [slides](./Presentations_of_My_Examples.pptx) to understand more details and the results of these systems in this repository.
+- You can read the [Powerpoint slides](./Presentations_of_My_Examples.pptx) or  [Pdf slides](./Presentations_of_My_Examples.pdf) to understand more details and the results of these systems in this repository.
 
 Cheers!
     
