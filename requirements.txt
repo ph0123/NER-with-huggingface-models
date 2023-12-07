@@ -1,0 +1,8 @@
+numpy==1.25.2
+datasets==2.15.0
+seqeval==1.2.2
+torch==2.1.1
+torchaudio==2.1.1
+torchinfo==1.8.0
+torchvision==0.16.1
+transformers==4.35.2
