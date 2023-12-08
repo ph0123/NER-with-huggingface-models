@@ -64,7 +64,7 @@ ANIMAL(ANIM)).
    2.2 Run all cells for [SystemBDistilbert.ipynb](./SystemBDistilbert.ipynb). You will get the "Best model Distillbert after 10 epochs - SystemB" folder, which can be downloaded from [My trained models](https://drive.google.com/drive/folders/1P22n3j08eAsyvuBZU63mNEMdK9Dqj6et?usp=sharing).
 
 3. Load and Test System A and B with an example sentence.
-- Sentences: `"Denmark's	Hans Nielsen won his third World Championship with a 15-point maximum from his five rides."`
+- Sentence: `"Denmark's	Hans Nielsen won his third World Championship with a 15-point maximum from his five rides."`
 - Run all cells of [SystemADistilbert_Testing.ipynb](./SystemADistilbert_Testing.ipynb) to see how the trained model works for SystemA. 
 - Run all cells of [SystemBDistilbert_Testing.ipynb](./SystemBDistilbert_Testing.ipynb) to see how the trained model works for SystemB. 
 
